@@ -21,3 +21,4 @@ Tracking Shot
 Wide shot
 Worm's Eye View
 Zoom Shot
+Cowboy Shot
