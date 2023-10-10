@@ -15,7 +15,6 @@ Low Angle
 Oblique Angle
 Overhead Shot
 Point-of-View Shot
-Steadicam Shot
 Tilt Shot
 Tracking Shot
 Wide shot
