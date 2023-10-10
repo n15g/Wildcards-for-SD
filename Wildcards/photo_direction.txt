@@ -1,8 +1,4 @@
 from front
-from front
-from front
-from front
-from front
 from below
 from above
 from side
