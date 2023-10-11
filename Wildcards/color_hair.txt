@@ -1,14 +1,14 @@
-Black
-Brown
-Blonde
-Red
-Blue
-Green
-Pink
-Purple
-Silver
-White
-Orange
-Gray
-Rainbow Gradient
-Gold
+black
+brown
+blonde
+red
+blue
+green
+pink
+purple
+silver
+white
+orange
+gray
+rainbow gradient
+gold

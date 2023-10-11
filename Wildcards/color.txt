@@ -1,313 +1,311 @@
-Advent Purple
-Agreeable Gray
-Aluminum
-Amaranth
-Amber
-Amber Brown
-Amethyst
-Antique Gray
-Apricot
-Aqua Blue
-Aqua Green
-Army Brown
-Army Green
-Ash Gray
-Asphalt Gray
-Banana Yellow
-Bear Brown
-Birch
-Bisque
-Blood Red
-Blue Screen of Death
-Blush Pink
-Bone
-Brass
-Brick Red
-Brick Red
-Bright Blue
-Bright Green
-Bright Navy
-Bright Orange
-Bright Pink
-Bright Purple
-Bright Red
-Bright Red
-Bright Yellow
-Bubblegum Pink
-Burlap Brown
-Burnt Orange
-Camel
-Canary Yellow
-Caramel
-Carnation Pink
-Carolina Blue
-Celadon
-Cement Gray
-Cerise
-Cetacean Blue
-Chambray Blue
-Champagne Pink
-Charcoal Gray
-Chartreuse
-Cherry Blossom Pink
-Cherry Red
-Chocolate Brown
-Christmas Green
-Christmas Red
-Chrome
-Classic Purple
-Clay
-Cloud Burst Blue
-Cobalt Blue
-Cocoa Brown
-Coffee Brown
-Columbia Green
-Comic Book Red
-Comic Book Yellow
-Concrete
-Construction Orange
-Cool Gray
-Copper
-Coral Pink
-Corn Green
-Cornflower Blue
-Cortana Blue
-Cotton Candy Pink
-Coyote Brown
-Cream
-Crimson
-Cyan
-Dark Blue
-Dark Brown
-Dark Chocolate Brown
-Dark Gray
-Dark Green
-Dark orange
-Dark Pink
-Dark Purple
-Dark Red
-Dark Sand Brown
-Dark Steel Gray
-Dark Yellow
-Dazzling Blue
-Deep Pink
-Denim Blue
-Dirt Brown
-Dorian Gray
-Dusty Rose Pink
-Earthy Red
-Electric Blue
-Emerald Green
-Espresso Brown
-Eucalyptus
-Eye Brown
-Fire Truck Red
-Flamingo Pink
-Flower Pink
-Fluorescent Blue
-Fluorescent Green
-Fluorescent Pink
-Fluorescent Yellow
-Forest Green
-French Blue
-French Gray
-Fun Yellow
-Gainsboro Gray
-Girl Scout Green
-Glowing Moon Yellow
-Gold Pink
-Golden Brown
-Golden Yellow
-Goldfish Orange
-Grapefruit Pink
-Graphite Gray
-Grass Green
-Green Screen Color
-Gun Smoke Gray
-Gunmetal Gray
-Hair Brown
-Halloween Orange
-Harvest Gold
-Heather Gray
-Heliconia
-Highlighter Pink
-Honolulu Blue
-Hot Pink
-Hunter Blaze Orange
-Hunter Green
-Ice Gray
-Indigo Blue
-Irish Green
-Ivory
-Jade Green
-Kelly Green
-King Blue
-Knockout Pink
-Lavender
-Leaf Green
-Leather Brown
-Legal Pad Yellow
-Legendary Gray
-Lemon Yellow
-Light blue
-Light Blush
-Light Brown
-Light Gray
-Light Orange
-Light Pink
-Light purple
-Light Red
-Light Yellow
-Light Zerg Purple
-Lightsaber Blue
-Lightsaber Green
-Lightsaber Red
-Lilac
-Lime Green
-Linen
-Lip Pink
-Magenta
-Malibu Blue
-Marines Blue
-Matte Gray
-Mauve
-Medium Brown
-Medium Dark Red
-Melon
-Metallic Gray
-Midnight Blue
-Midnight Green
-Midnight Purple
-Milano
-Military Green
-Millennial Pink
-Mint Blue
-Mint Green
-Mocha
-Monarch Orange
-Moss
-Mulberry
-Musket Brown
-Mustard Yellow
-Navy Blue
-Neon Blue
-Neon Green
-Neon Orange
-Neon Pink
-Neon Purple
-Neon Red
-Neon Yellow
-Neutral Gray
-Nickel Gray
-Nude Pink
-Oatmeal
-Ocean Blue
-Olive Brown
-Olive Green
-Oxblood Red
-Oxford Brown
-Oxford Gray
-Pacific Blue
-Pale Blue
-Pale Gold
-Pale Pink
-Pale Yellow
-Paper Bag Brown
-Passion Pink
-Pastel Blue
-Pastel Gray
-Pastel Green
-Pastel Orange
-Pastel Pink
-Pastel Purple
-Pastel Red
-Pastel Red
-Pastel Yellow
-Peacock Blue
-Pearl Pink
-Periwinkle
-Petrol
-Pewter
-Pine Green
-Platinum
-Plum Purple
-Police Blue
-Powder Blue
-Primary Blue
-Pumpkin Spice Orange
-Racing Red
-Red Orange
-Reflex Blue
-Rhodamine Red
-Rich Blue
-Rich Brown
-Rich Gray
-Rich Red
-Road Sign Blue
-Road Sign Brown
-Road Sign Green
-Road Sign Orange
-Road Sign Yellow
-Robin Egg Blue
-Rose Red
-Rosy Brown
-Rosy Pink
-Rotary Blue
-Royal Blue
-Ruby Red
-Rustic Red
-Safety Yellow
-Saffron
-Sage Gray
-Sage Green
-Salmon Pink
-Sandstone
-Sapphire Blue
-Satin Sheets Gold
-Sawgrass Brown
-Scarlet Red
-School Bus yellow
-Sea Blue
-Seafoam Green
-Sepia Brown
-Sheffield Gray
-Shrek Green
-Siena Brown
-Silvery Pink
-Sky Blue
-Sky Blue
-Slate Gray
-Soft Pink
-Spearmint
-Spring Green
-Steel Gray
-Strawberry
-Summer Yellow
-Sweet Pink
-Taupe Brown
-Taxi Cab Yellow
-Teal Blue
-Templeton Gray
-Tennis Court Blue
-Tennis Court Green
-Terracotta
-Tiger Orange
-Timberwolf Gray
-Tortoise Shell Brown
-True Silver
-US Navy Blue
-Valentine Pink
-Varsity Red
-Vermillion
-Very Gray
-Vibrant Pink
-Violet
-Viridian
-Walnut Brown
-Warm Brown
-Warm Gray
-Watermelon
-Whiskey Brown
-Wine Red
-Wood Brown
-Yellow Green
+advent purple
+agreeable gray
+aluminum
+amaranth
+amber
+amber brown
+amethyst
+antique gray
+apricot
+aqua blue
+aqua green
+army brown
+army green
+ash gray
+asphalt gray
+banana yellow
+bear brown
+birch
+bisque
+blood red
+blush pink
+bone
+brass
+brick red
+brick red
+bright blue
+bright green
+bright navy
+bright orange
+bright pink
+bright purple
+bright red
+bright red
+bright yellow
+bubblegum pink
+burlap brown
+burnt orange
+camel
+canary yellow
+caramel
+carnation pink
+carolina blue
+celadon
+cement gray
+cerise
+cetacean blue
+chambray blue
+champagne pink
+charcoal gray
+chartreuse
+cherry blossom pink
+cherry red
+chocolate brown
+christmas green
+christmas red
+chrome
+classic purple
+clay
+cloud burst blue
+cobalt blue
+cocoa brown
+coffee brown
+columbia green
+comic book red
+comic book yellow
+concrete
+construction orange
+cool gray
+copper
+coral pink
+corn green
+cornflower blue
+cortana blue
+cotton candy pink
+coyote brown
+cream
+crimson
+cyan
+dark blue
+dark brown
+dark chocolate brown
+dark gray
+dark green
+dark orange
+dark pink
+dark purple
+dark red
+dark sand brown
+dark steel gray
+dark yellow
+dazzling blue
+deep pink
+denim blue
+dirt brown
+dorian gray
+dusty rose pink
+earthy red
+electric blue
+emerald green
+espresso brown
+eucalyptus
+eye brown
+fire truck red
+flamingo pink
+flower pink
+fluorescent blue
+fluorescent green
+fluorescent pink
+fluorescent yellow
+forest green
+french blue
+french gray
+fun yellow
+gainsboro gray
+girl scout green
+glowing moon yellow
+gold pink
+golden brown
+golden yellow
+goldfish orange
+grapefruit pink
+graphite gray
+grass green
+green screen color
+gun smoke gray
+gunmetal gray
+hair brown
+halloween orange
+harvest gold
+heather gray
+heliconia
+highlighter pink
+honolulu blue
+hot pink
+hunter blaze orange
+hunter green
+ice gray
+indigo blue
+irish green
+ivory
+jade green
+kelly green
+king blue
+knockout pink
+lavender
+leaf green
+leather brown
+legal pad yellow
+legendary gray
+lemon yellow
+light blue
+light blush
+light brown
+light gray
+light orange
+light pink
+light purple
+light red
+light yellow
+light zerg purple
+lightsaber blue
+lightsaber green
+lightsaber red
+lilac
+lime green
+linen
+lip pink
+magenta
+malibu blue
+marines blue
+matte gray
+mauve
+medium brown
+medium dark red
+melon
+metallic gray
+midnight blue
+midnight green
+midnight purple
+milano
+military green
+millennial pink
+mint blue
+mint green
+mocha
+monarch orange
+moss
+mulberry
+musket brown
+mustard yellow
+navy blue
+neon blue
+neon green
+neon orange
+neon pink
+neon purple
+neon red
+neon yellow
+neutral gray
+nickel gray
+nude pink
+oatmeal
+ocean blue
+olive brown
+olive green
+oxblood red
+oxford brown
+oxford gray
+pacific blue
+pale blue
+pale gold
+pale pink
+pale yellow
+paper bag brown
+passion pink
+pastel blue
+pastel gray
+pastel green
+pastel orange
+pastel pink
+pastel purple
+pastel red
+pastel red
+pastel yellow
+peacock blue
+pearl pink
+periwinkle
+petrol
+pewter
+pine green
+platinum
+plum purple
+police blue
+powder blue
+primary blue
+pumpkin spice orange
+racing red
+red orange
+reflex blue
+rhodamine red
+rich blue
+rich brown
+rich gray
+rich red
+road sign blue
+road sign brown
+road sign green
+road sign orange
+road sign yellow
+robin egg blue
+rose red
+rosy brown
+rosy pink
+rotary blue
+royal blue
+ruby red
+rustic red
+safety yellow
+saffron
+sage gray
+sage green
+salmon pink
+sandstone
+sapphire blue
+satin sheets gold
+sawgrass brown
+scarlet red
+school bus yellow
+sea blue
+seafoam green
+sepia brown
+sheffield gray
+siena brown
+silvery pink
+sky blue
+sky blue
+slate gray
+soft pink
+spearmint
+spring green
+steel gray
+strawberry
+summer yellow
+sweet pink
+taupe brown
+taxi cab yellow
+teal blue
+templeton gray
+tennis court blue
+tennis court green
+terracotta
+tiger orange
+timberwolf gray
+tortoise shell brown
+true silver
+us navy blue
+valentine pink
+varsity red
+vermillion
+very gray
+vibrant pink
+violet
+viridian
+walnut brown
+warm brown
+warm gray
+watermelon
+whiskey brown
+wine red
+wood brown
+yellow green

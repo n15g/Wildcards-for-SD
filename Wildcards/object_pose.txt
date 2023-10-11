@@ -1,66 +1,66 @@
-Arching
-Balancing
-Bending
-Crawling
-Crouching
-Dancing
-Flexing
-Jumping
-Kneeling
-Laying down
-Leaping
-Lunging
-Marching
-Pouncing
-Prone
-Reclining
-Running
-Sitting
-Sprinting
-Staggering
-Standing
-Stomping
-Stretching
-Striding
-Supine
-Swaggering
-Twisting
-Walking
-Waving
-Yawning
-Yelling
-Standing with arms crossed
-Hands on hips
-Confident stance
-Leaning against a wall
-Sitting on a stool
-Sitting on a chair
-Sitting cross-legged on the ground
-Sitting on a staircase
-Lying on back
-Lying on stomach with chin resting on hands
-Sitting with legs stretched out
-Arms outstretched reaching up
-One hand on chin looking contemplative
-Hand in pocket relaxed pose
-Twirling around for a candid shot
-Jumping in mid-air for an action shot
-Arms raised in victory or celebration
-Dancing or striking a dance pose
-Blowing a kiss
-Walking or in motion
-Casual off-guard candid shot
-Sitting with legs crossed
-Looking over shoulder
-Fixing hair
-Adjusting clothing
-Pointing at something in the distance
-Leaning against something
-Sitting on a windowsill
-Doing a yoga pose
-Lifting one leg in a playful manner
-Making a peace sign with fingers
-Looking up at the sky
-Posing with a car
-Posing with a motorcycle
-Doing a silly pose
+adjusting clothing
+arching
+arms outstretched reaching up
+arms raised in victory or celebration
+balancing
+bending
+blowing a kiss
+casual off-guard candid shot
+confident stance
+crawling
+crouching
+dancing
+dancing or striking a dance pose
+doing a silly pose
+doing a yoga pose
+fixing hair
+flexing
+hand in pocket relaxed pose
+hands on hips
+jumping
+jumping in mid-air for an action shot
+kneeling
+laying down
+leaning against a wall
+leaning against something
+leaping
+lifting one leg in a playful manner
+looking over shoulder
+looking up at the sky
+lunging
+lying on back
+lying on stomach with chin resting on hands
+making a peace sign with fingers
+marching
+one hand on chin looking contemplative
+pointing at something in the distance
+posing with a car
+posing with a motorcycle
+pouncing
+prone
+reclining
+running
+sitting
+sitting cross-legged on the ground
+sitting on a chair
+sitting on a staircase
+sitting on a stool
+sitting on a windowsill
+sitting with legs crossed
+sitting with legs stretched out
+sprinting
+staggering
+standing
+standing with arms crossed
+stomping
+stretching
+striding
+supine
+swaggering
+twirling around for a candid shot
+twisting
+walking
+walking or in motion
+waving
+yawning
+yelling

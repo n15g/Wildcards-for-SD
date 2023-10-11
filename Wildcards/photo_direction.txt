@@ -1,5 +1,0 @@
-from front
-from below
-from above
-from side
-from behind
