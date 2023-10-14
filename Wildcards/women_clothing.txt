@@ -2,20 +2,19 @@ a-line skirt
 anorak
 backless dress
 ball gown
-bdsm outfit
 bell sleeve dress
 bell sleeve top
 blanket scarf
 blazer
 blouse
 bodycon dress
+bodysuit
 bomber jacket
 bomber jacket with a fur collar
-bra
+boyshorts
 bridesmaid dress
 cable knit sweater
 cami top
-camisole
 cape coat
 cape poncho
 capris
@@ -23,12 +22,10 @@ cardigan
 cardigan coat
 cardigan sweater
 cashmere scarf
-chemise
 coat
 cocktail dress
 cold shoulder dress
 cold shoulder top
-corset
 crop top
 cropped jacket
 cropped sweater
@@ -39,7 +36,6 @@ denim vest
 dress
 duffle coat
 evening gown
-fetish attire
 fleece vest
 flutter sleeve dress
 flutter sleeve top
@@ -67,6 +63,7 @@ leather lingerie
 leather skirt
 leggings
 leggings with a tunic top
+leotard
 lingerie
 little black dress
 long sleeve dress

@@ -9,6 +9,5 @@ __location_road__
 __location_sky__
 __location_underground__
 __location_underwater__
-__location_water__
 __location_workshop__
 __room__
