@@ -1,9 +1,6 @@
 apple
 apron
 backpack
-backpack
-backpack
-backpack
 bait
 baked beans
 ball
@@ -19,12 +16,9 @@ beach chair
 beach hat
 beach paddleball
 beach towel
-beach towel
-beach umbrella
 beach umbrella
 beer
 bicycle
-binoculars
 binoculars
 bird bath
 bird feeder
@@ -47,12 +41,8 @@ chicken
 clock
 coleslaw
 compass
-compass
-compass
 computer
 conditioner
-cooler
-cooler
 cooler
 corn on the cob
 cup
@@ -62,9 +52,7 @@ fertilizer
 first aid kit
 fish
 fishing rod
-fishing rod
 fishing tackle
-flashlight
 flashlight
 flip-flops
 flippers
@@ -85,7 +73,6 @@ hammer
 hat
 hat
 hiking boots
-hiking boots
 hose
 hot dog
 iced tea
@@ -94,20 +81,15 @@ kabobs
 kayak
 key
 kite
-kite
 knife
 ladder
 lamp
 lawnmower
-lawnmower
 lemonade
 life jacket
-life jacket
-lighter fluid
+lighter
 luggage
 magnifying glass
-map
-map
 map
 marshmallow
 microphone
@@ -122,7 +104,6 @@ patio chair
 patio table
 pen
 phone
-picnic basket
 picnic basket
 picnic blanket
 pillow
@@ -150,10 +131,7 @@ shoes
 shovel
 skewers
 sleeping bag
-sleeping bag
-sleeping bag
 snorkel
-snorkel mask
 soap
 soccer ball
 soil
@@ -163,10 +141,6 @@ sprinkler
 steak
 sun hat
 sunglasses
-sunglasses
-sunglasses
-sunscreen
-sunscreen
 sunscreen
 surfboard
 swimming goggles
@@ -192,8 +166,6 @@ wallet
 watch
 water bottle
 watering can
-watering can
-wheelbarrow
 wheelbarrow
 wind chimes
 window
