@@ -1,27 +1,21 @@
-a-line skirt
 anorak
-backless dress
 ball gown
 bell sleeve dress
 bell sleeve top
-blanket scarf
 blazer
 blouse
 bodycon dress
 bodysuit
 bomber jacket
 bomber jacket with a fur collar
-boyshorts
 bridesmaid dress
 cable knit sweater
 cami top
 cape coat
 cape poncho
-capris
 cardigan
 cardigan coat
 cardigan sweater
-cashmere scarf
 coat
 cocktail dress
 cold shoulder dress
@@ -30,7 +24,6 @@ crop top
 cropped jacket
 cropped sweater
 culotte jumpsuit
-culottes
 denim jacket
 denim vest
 dress
@@ -40,61 +33,41 @@ fleece vest
 flutter sleeve dress
 flutter sleeve top
 formal dress
-fringed scarf
 full length gown
 fur coat
 fur trimmed coat
 gown
 halter dress
 halter top
-harem pants
 henley sweater
 hooded sweatshirt
-infinity scarf
 jacket
-jeans
 jumpsuit
 kimono
 lace teddy lingerie
 leather dress
-leather fetish attire
 leather jacket
-leather lingerie
-leather skirt
-leggings
-leggings with a tunic top
 leotard
-lingerie
 little black dress
 long sleeve dress
 long sleeve top
-maxi dress
-maxi skirt
-mermaid gown
 midi dress
-midi skirt
 military jacket
 mini dress
 mock turtleneck top
 mother of the bride dress
-nude
 nightgown
 off-shoulder top
 off-the-shoulder dress
 off-the-shoulder sweater
 one-shoulder top
 overalls
-palazzo pants
-pant
-panties
 parka
 parka with a fur hood
 party dress
 pea coat
-pencil skirt
 peplum top
 playboy bunny leotard
-pleated skirt
 poncho
 prom dress
 puffer jacket
@@ -107,14 +80,11 @@ round neck sweater
 round neck top
 ruffle sleeve dress
 ruffle sleeve top
-scarf
 scoop neck top
 sheath dress
 shift dress
 short sleeve dress
 short sleeve top
-shorts
-skirt
 skirt suit
 sleeveless dress
 sleeveless jacket
@@ -131,14 +101,10 @@ top
 trench coat
 trench coat with a hood
 tube top
-tulip skirt
 tunic top
 turtleneck sweater
 turtleneck top
-undressing
 v-neck sweater
 v-neck top
 wedding dress
-wide leg pants
 wrap dress
-wrap skirt
