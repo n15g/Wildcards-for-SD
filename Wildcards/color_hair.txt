@@ -11,4 +11,3 @@ white
 orange
 gray
 rainbow gradient
-gold
